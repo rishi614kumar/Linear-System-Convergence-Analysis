@@ -3,7 +3,7 @@
 This Python project is an attempt to discover optimal matrix structures for fast convergence in solving the linear system *Ax=b* with the Jacobi method.
 
 
-Matrices downloaded from the [Matrix Market](https://math.nist.gov/MatrixMarket/)
+Matrices downloaded from the [Matrix Market](https://math.nist.gov/MatrixMarket/).
 
 
 
